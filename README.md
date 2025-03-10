@@ -11,6 +11,7 @@ Link : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 **Description:** Contains information about customers, including demographics, account details, and whether they have churned.
 
 🔍 **Key Insights from project**
+
  Customers with "high monthly charges" have a higher churn rate.  
  Customers with "longer tenure" are less likely to leave.  
  "Long-term contracts" reduce churn significantly.  
